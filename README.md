@@ -1,6 +1,5 @@
 # Django REST Framework – My First API
 
-## Goal
 Learn how to build a simple REST API using Django REST Framework.
 
 ## Topics I’m learning
@@ -17,7 +16,7 @@ Learn how to build a simple REST API using Django REST Framework.
 ---
 
 ## Resources
-These are the materials I used while learning:
+These are the resources I used while learning:
 - [Django for APIs by William S. Vincent](./resources/django-apis-build-web-python.pdf)
 
 ---
