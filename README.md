@@ -4,10 +4,15 @@
 Learn how to build a simple REST API using Django REST Framework.
 
 ## Topics I’m learning
-- World Wide Web
-- URLs
-- Internet Protocol Suite
-- HTTP Verbs
+- Web APIs
+- Library Website and API
+- Todo API
+- Todo React Front-end
+- Blog API
+- Permissions
+- User Authentication
+- Viewsets and Routers
+- Schemas and Documentation
 
 
 
