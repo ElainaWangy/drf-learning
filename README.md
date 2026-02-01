@@ -28,5 +28,5 @@ These are the notes and articles I wrote while learning:
 - [From Monoliths to APIs](https://medium.com/@sharipovjonibek/from-monoliths-to-apis-8016a876ff45)
 - [Web APIs and How the Web Works](https://medium.com/@sharipovjonibek/web-apis-and-how-the-web-works-70bdb86ccef9)
 - [Internet Protocol Suite](https://medium.com/@sharipovjonibek/internet-protocol-suite-075ade9a4910)
-- [HTTP Verbs(Request Methods)](https://medium.com/@sharipovjonibek/http-verbs-request-methods-351c1dc99f03)
+- [HTTP Verbs (Request Methods)](https://medium.com/@sharipovjonibek/http-verbs-request-methods-351c1dc99f03)
 
